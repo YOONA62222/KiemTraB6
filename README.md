@@ -1,6 +1,48 @@
-<h1>CV CÁ NHÂN</h1>
-<h2>Thông tin</h2>
-<h3>Họ và tên:Đào Mạnh Cường</h3>
-<h3>MSSV:2011061409</h3>
-<h3>Ngành học : Công nghệ phần mềm</h3>
-<h2 align="center">technology</h2>
+ # Manh Cuong
+
+**Specialize**: Back-End Developer
+
+**Contact**:
+- 📞 +84123456789
+- ✉️ daomanhcuongcntt62@gmail.com
+- 🔗 [lundevweb.com](https://lundevweb.com)
+
+**Information**:
+- From **HCMC** - VietNam
+- 06/02/2002
+- 0933971158
+- Hutech University
+
+## INTRODUCE MYSELF
+
+Lập Trình viên FROND END
+
+## EXPERIENCE
+
+
+### Student
+- **Time**: 2020 - nay
+- **University**: HUTECH University
+- **Description**: Sinh viên ngành Công nghệ thông tin,chuyên ngành Công nghệ phần mềm
+- **GPA**:2.18
+
+## SKILLS
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- PHP
+- MySql
+- Git
+  
+
+## PROJECTS
+
+### Website nhà hàng 
+- **Time**: 2023
+- **Website**: www.lundevweb.com
+- **Position**: Frond-end Developer
+- **Description**:
+  -Tham gia vào dự án nhóm trong khóa học về phát triển ứng dụng web, làm việc cùng đồng đội để xây dựng giao diện người dùng sử dụng HTML, CSS và JavaScript.
+
+
